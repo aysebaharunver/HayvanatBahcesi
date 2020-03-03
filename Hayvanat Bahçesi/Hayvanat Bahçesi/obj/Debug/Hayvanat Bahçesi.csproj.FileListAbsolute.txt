@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\Hayvanat Bahçesi.exe.config
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\Hayvanat Bahçesi.exe
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\Hayvanat Bahçesi.pdb
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Properties.Resources.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.csproj.CopyComplete
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.exe
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.pdb
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.AnimalsInformation.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Login.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.UserMenu.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.SystemAdminMenu.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.AppUsers.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Employees.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.FormAnimals.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Cages.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.VeterinaryForm.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Animals_Babies.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Veterinaries.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.ZookeeperForm.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.TicketClerkForm.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Zookeepers.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Help.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.TicketForStudent.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.TicketForUnder7OrOver65.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.TicketForChild.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.TicketForAdult.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\Hayvanat Bahçesi.exe.manifest
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\bin\Debug\Hayvanat Bahçesi.application
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.exe.manifest
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.application
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat_Bahçesi.Migrations.Migration.resources
+C:\Users\User\source\repos\Hayvanat Bahçesi\Hayvanat Bahçesi\obj\Debug\Hayvanat Bahçesi.csproj.CoreCompileInputs.cache
